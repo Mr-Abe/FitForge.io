@@ -1,0 +1,18 @@
+# Environment Variables
+.env
+
+# macOS Files
+.DS_Store
+
+# Python Files
+__pycache__/
+*.py[cod]
+
+# Xcode and Swift Files
+*.xcuserdata
+*.xcworkspace
+Pods/
+
+# Dependencies and Build Files
+node_modules/
+*.log
