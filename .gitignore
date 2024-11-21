@@ -1,6 +1,9 @@
 # Environment Variables
 .env
 
+# virtual environment
+venv/ 
+
 # macOS Files
 .DS_Store
 
